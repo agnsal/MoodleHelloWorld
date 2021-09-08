@@ -1,4 +1,4 @@
-# MoodleHelloWorld
+# moodle_hello_world
 Moodle 3.11 Plugin Hello World.
 This simple plugin prints "Hello World!" inside Moodle.
 
