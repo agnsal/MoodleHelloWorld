@@ -12,7 +12,8 @@ This simple plugin prints "Hello World!" inside Moodle.
 - Follow Moodle installation guide (the DB used in xampp is MariaDB with
   "root" as username and void password by default)
 - Place your plugin folder under local folder (inside Moodle folder)
-  - Notice: Plugin folder name cannot contain '-' or any space ('_' only is allowed)
+  - Notice: Plugin folder name cannot contain '-' or any space ('_' only is allowed).
+  Do NOT use camel case!
 - Name the namespace accordingly inside your code (namespace must be the same
   of the plugin folder)
 - Build the plugin: ```php admin/cli/upgrade.php```
