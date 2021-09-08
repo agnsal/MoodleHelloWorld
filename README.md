@@ -6,7 +6,7 @@ This simple plugin prints "Hello World!" inside Moodle.
 ## Moodle Local Plugin Installation Guide
 - Start your php server and database (for example, you can use XAMPP
   https://www.apachefriends.org/it/index.html)
-- Download last Moodle version (Moodle 3.11 requires php 7.4)
+- Download last Moodle version from https://moodle.org/ (Moodle 3.11 requires php 7.4)
 - Unzip it
 - Put it into htdocs folder
 - Follow Moodle installation guide (the DB used in xampp is MariaDB with
